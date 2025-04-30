@@ -12,7 +12,7 @@ AgentChain is a low-code application that empowers youth and developers to under
 - 🧠 **Prompt Injection Defense**
 - 💻 **Admin Copilot Studio Access:** Custom flows in Salesforce
 - 💬 **Slack & Telegram Integrations**
-- 📊 **Pitch Deck:** [Download PPTX](https://github.com/Jerryblessed/agentchain/blob/main/AgentChain_Pitch_Deck.pptx)
+- 📊 **Pitch Deck:** [Download PPTX](https://github.com/Jerryblessed/agentchain/raw/refs/heads/main/AgentChain_Pitch_Deck.pptx)
 - 🖼️ **Architecture Diagram:** ![AgentChain Diagram](https://github.com/Jerryblessed/agentchain/blob/main/agentchain.png)
 
 ---
